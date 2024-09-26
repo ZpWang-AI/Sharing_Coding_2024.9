@@ -107,6 +107,8 @@ git commit -m "Commit Message"  # 保存改动
 
 更推荐用 VSCode 里的插件，使用 Source Control 部分来进行改动的缓存和保存
 
+在项目下 .gitignore 里可以添加不想要保存改动的文件名称
+
 # 设置远程连接(remote)
 
 假设本地、服务器都有相同的库，需要将服务器的库连上本地的库，后续可以用本地库更新服务器的库或者反过来
