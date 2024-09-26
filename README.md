@@ -24,6 +24,6 @@ Coding part of the sharing meeting in LPAI, about Shell, SSH, and Git.
 * SSH
 * Git
 * Github
-* 文本结构
+* 格式化文本
     * markdown
     * latex (Overleaf)
