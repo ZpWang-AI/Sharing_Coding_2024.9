@@ -42,6 +42,7 @@ du -h -d 1 | sort -hr  # 当前文件夹下各文件/文件夹的大小
 
 ~~~sh
 lsof -t -i:[port]  # [port] 是要查询的端口号，比如：8793，返回结果是对应的程序进程号 pid
+netstat -tunlp | grep [port]  # 同上，返回结果更详细一些
 ~~~
 
 ## P.S.
