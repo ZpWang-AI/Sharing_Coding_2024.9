@@ -8,6 +8,7 @@
 * Github 是基于 Git 的远程代码管理平台，Gitee 是国内类似平台，~~以及CSDN的GitCode~~
 * Github 基于 Git，而运行 Git 不一定需要在 Github 上有对应库
 
+[Gitee 上的 Git 大全](https://gitee.com/all-about-git)
 
 ## 为什么要用 Git
 
