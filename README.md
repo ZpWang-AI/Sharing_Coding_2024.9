@@ -1,13 +1,13 @@
 # Sharing_Coding_2024.9
 Coding part of the sharing meeting in LPAI, about Shell, SSH, and Git.
 
-**个人认为程序员为了提高效率需要深入探索的一些方面：**
+**前言：程序员修炼目标**
 
 * 代码编写规范
     * 命名
     * 代码间隔
-    * 类和函数的组织
     * 全局变量、局部变量
+    * 类和函数的组织
     * 文件组织架构
     * ...
 * VSCode
