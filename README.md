@@ -5,7 +5,7 @@ Coding part of the sharing meeting in LPAI, about Shell, SSH, and Git.
 
 * 代码编写规范
     * 命名
-    * 空行
+    * 代码间隔
     * 类和函数的组织
     * 全局变量、局部变量
     * 文件组织架构

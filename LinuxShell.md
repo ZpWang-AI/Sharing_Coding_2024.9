@@ -24,7 +24,7 @@ ps -aux | grep python | grep -v gpustat | grep -v .vscode-server  # 查找所有
 ~~~sh
 conda activate base  # 开 conda 环境
 pip install gpustat  # 下载 gpustat 这个包
-gpustat -ip  # 实时展示显卡占用
+gpustat -i  # 实时展示显卡占用
 gpustat -p  # 展示占用显卡的程序的进程号 pid
 watch --color -n1 gpustat -cpu --color  # 实时展示显卡占用且展示进程号
 ~~~
